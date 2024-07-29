@@ -9,7 +9,7 @@ Then by clicking on the desired sorting algorithm, the sorting process starts.
 - Quick Sort
 - Merge Sort
 
-[Click Here!](https://kanavphull.github.io/sorting-algorithm-visualizer/) to use the visualizer on the website.
+ to use the visualizer on the website.
 ## Screenshots
 <img src="image_1.png"> <br/>
 <img src="image_2.png"> <br/>
