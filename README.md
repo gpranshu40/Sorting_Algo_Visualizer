@@ -9,7 +9,7 @@ Then by clicking on the desired sorting algorithm, the sorting process starts.
 - Quick Sort
 - Merge Sort
 
- to use the visualizer on the website.
+[Click Here!](https://gpranshu40.github.io/Sorting_Algo_Visualizer/) to use the visualizer on the website.
 ## Screenshots
 <img src="image_1.png"> <br/>
 <img src="image_2.png"> <br/>
